@@ -1,0 +1,11 @@
+#logo{
+    width: 700px;
+    height: 500px;   
+}
+body{
+    text-align: center;
+    background-color: black; 
+}
+.avenger{
+    display: inline;
+}
